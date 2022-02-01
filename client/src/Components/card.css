@@ -1,0 +1,12 @@
+.phone{
+    transition: transform .2s;
+    background-color: rgba(0, 0, 0,0.4)!important;
+    border-radius: 10px!important;
+    color: white;
+    border: 2px solid white!important;
+    /* background-color: red!important; */
+}
+
+.phone:hover {
+    transform: scale(1.05);
+  }
